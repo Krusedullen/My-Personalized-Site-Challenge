@@ -1,0 +1,118 @@
+body {
+  background-color: #eaf6f6;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6rem;
+  margin: 50px auto 0;
+}
+
+h2 {
+  Color: #216353;
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  Color: #216353;
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  Color: #216353;
+  font-family: 'Raleway', sans-serif;
+  margin: 0 auto;
+  width: 650px;
+}
+
+hr {
+  background-color: #edffea;
+  border-color: #7a4d1d;
+  border-style: dotted none none;
+  border-width: 20px;
+  height: 0;
+  width: 20%;
+}
+
+.bottom-cloud {
+  left: 30%;
+  position: absolute;
+
+}
+
+.bottom-container {
+  background-color: #75daad;
+  /*padding: 20px;*/
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+.computer-image{
+  float: right;
+  height:auto;
+  width: 40%;
+  /*margin-left: 30px;*/
+}
+
+.flugel {
+  float: left;
+  height:auto;
+  margin-right: 30px;
+  width: 40%;
+}
+
+.me-span {
+  text-decoration: underline;
+}
+
+.middle-container {
+  background-color: #edffea;
+  padding: 20px;
+}
+
+.profile-picture {
+  height:auto;
+  max-width: 10%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+}
+
+.top-container {
+  background-color: #216353;
+  /*background-color: #75daad;*/
+  padding: 20px;
+  position: relative;
+}
+
+.top-paragraph {
+  Color: #edffea;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+
+.skills{
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 60%;
+
+}
+
+/*.skill-paragraph{
+
+}*/
+
+.skill-row{
+  line-height: 2;
+  margin: 100px auto 100px;
+  text-align: left;
+  width: 60%;
+}
